@@ -1,4 +1,4 @@
-package dev.marlonlom.libs.weekday_range
+package dev.marlonlom.utilities.weekday_range
 
 import java.time.LocalDate
 
